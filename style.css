@@ -46,7 +46,6 @@ h1 {
  /* Image Application Dropzone */
 
 #dropzone {
-  width: 100%;
   max-width: 100%;
   min-height: 160px;
   display: flex;
